@@ -68,7 +68,7 @@ a:hover {
     100%{   color: #1383F2; }
 }
 
-#w {
+#o {
     animation:w_blink 5s infinite;
     }
     @keyframes w_blink{
