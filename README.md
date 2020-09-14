@@ -1,5 +1,7 @@
 # My startpages
 
+!This is a fork of grtcdr's awesome startpages repo! See https://github.com/grtcdr/startpages
+
 #### What are startpages?
 
 Startpages are the home of your browser, they can contain useful information, recently visited websites, time and weather data.
