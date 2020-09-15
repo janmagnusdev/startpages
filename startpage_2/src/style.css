@@ -31,7 +31,7 @@ body {
     justify-content: center; 
     font-family: 'Overpass Mono', monospace;
 }
-.watch, .social, .dev, .linux {
+.social, .dev, .linux, .other, .magazines {
     display: flex;
     flex-direction: column;
     padding: 40px;
@@ -57,6 +57,24 @@ a:hover {
 }
 #time {
     font-size: 28px;
+    color: #459EF7
+}
+#s {
+    color: #22AB76
+}
+#d {
+    color: #D9C777
+}
+#l {
+    color: #F2746D
+}
+#o {
+    color: #9B67F5
+}
+#n {
+    color: #2ab39e
+}
+    /* Disable animations
     animation:blinking 5s infinite;
     }
     @keyframes blinking{
@@ -112,6 +130,7 @@ a:hover {
     80%{    color: #F2746D; }
     100%{   color: #CF342B; }
 }
+*/
 #youtube:hover {
     color: #FF0000 !important
 }
@@ -132,6 +151,21 @@ a:hover {
 }
 #stackoverflow:hover {
     color: #EF8236 !important
+}
+#tagesschau:hover {
+    color: #0059af !important
+}
+#duolingo:hover {
+    color: #58cc02 !important
+}
+#todoist:hover {
+    color: #e44332 !important
+}
+#github:hover {
+    color: #24292e !important
+}
+#goodreads:hover {
+    color: #eae6d1 !important
 }
 .mode_class{
     /*display: flex;
