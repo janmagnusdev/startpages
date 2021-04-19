@@ -1,0 +1,33 @@
+- feeds
+	- miniflux blogs
+	- miniflux allgemein
+	- overcast
+- social
+	- reddit
+	- twitter
+	- goodreads
+	- telegram (link auf die desktop app?)
+  - signal
+- dev
+	- github
+	- stack
+	- helpful docs -> wiki seite bei mir
+- other
+  - todoist
+  - duolingo
+- media
+	- youtube
+	- mediathekwebview
+	- pocket
+	- medium
+- magazines
+  - tagesschau.de
+  - taz.de
+  - sz.de
+  - bbc.com
+- travel
+	- komoot
+	- trip advisor
+- quarks
+	- daily brilliant challenges
+	- sz tagesquiz

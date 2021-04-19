@@ -20,7 +20,7 @@ body {
         width: auto;
     }
 }
-.list_title
+.list-title
 {
     font-size: 35px;
 }
@@ -31,7 +31,7 @@ body {
     justify-content: center; 
     font-family: 'Overpass Mono', monospace;
 }
-.social, .dev, .linux, .other, .magazines {
+.feeds, .social, .dev, .other, .media, .magazines, .travel, .quarks {
     display: flex;
     flex-direction: column;
     padding: 40px;
@@ -59,20 +59,29 @@ a:hover {
     font-size: 28px;
     color: #459EF7
 }
+#f {
+    color: #F2746D
+}
 #s {
     color: #22AB76
 }
 #d {
     color: #D9C777
 }
-#l {
-    color: #F2746D
-}
 #o {
     color: #9B67F5
 }
-#n {
+#m {
+    
+}
+#mags {
     color: #2ab39e
+}
+#t {
+
+}
+#q {
+
 }
     /* Disable animations
     animation:blinking 5s infinite;
@@ -131,6 +140,12 @@ a:hover {
     100%{   color: #CF342B; }
 }
 */
+#signal:hover{
+    color: #84AAF6 !important
+}
+#telegram:hover{
+    color: #00887A !important
+}
 #youtube:hover {
     color: #FF0000 !important
 }
