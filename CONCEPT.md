@@ -1,0 +1,27 @@
+## Bereiche
+
+- Feeds
+  - youtube abobox
+- social
+- dev
+  - mdn
+  - state of js
+  - jsr overview
+  - ietfs rfcs
+  - w3c recommendations
+- other
+- media
+  - goodreads
+  - letterboxd
+- news
+  - tagesschau
+  - sz
+  - zeit
+  - bbc
+- travel
+- quarks
+- regular
+  - xkcd
+  - heardle
+  - hacker news
+  - w3c

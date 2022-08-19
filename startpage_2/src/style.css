@@ -31,7 +31,7 @@ body {
     justify-content: center; 
     font-family: 'Overpass Mono', monospace;
 }
-.feeds, .social, .dev, .other, .media, .magazines, .travel, .quarks {
+.feeds, .social, .dev, .other, .media, .news, .travel, .quarks {
     display: flex;
     flex-direction: column;
     padding: 40px;
@@ -72,16 +72,16 @@ a:hover {
     color: #9B67F5
 }
 #m {
-    
+    color: #60ad5e;
 }
-#mags {
-    color: #2ab39e
+#news{
+    color: #ffbd45;
 }
 #t {
-
+    color: #43a047;
 }
 #q {
-
+    color: #4fb3bf;
 }
     /* Disable animations
     animation:blinking 5s infinite;
@@ -181,6 +181,12 @@ a:hover {
 }
 #goodreads:hover {
     color: #eae6d1 !important
+}
+#zeit:hover {
+    color: #EB362E !important;
+}
+#sz:hover {
+    color: #009990 !important;
 }
 .mode_class{
     /*display: flex;
